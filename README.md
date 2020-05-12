@@ -1,7 +1,7 @@
 # project-c
 Project 'counter'
 
-1. Prerequisites are 'npm' and 'node' to be installed
+1. Prerequisites are: 'npm' and 'node' to be installed
 2. cd into folders 'back-end' and 'front-end' and run 'npm install' to install dependencies
 3. To run the tests cd into 'back-end' folder and run 'npm test'
 4. To run the 'back-end' and 'front-end' applications cd to corresponding directories and run 'node server.js' (in separate terminal tabs)
